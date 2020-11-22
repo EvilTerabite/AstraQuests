@@ -1,0 +1,7 @@
+name: AstraQuests
+version: ${project.version}
+main: me.evilterabite.astraquests.AstraQuests
+api-version: 1.16
+authors: [ evilterabite ]
+description: --Quests for AstraMC--
+depend: [NPCLib,LuckPerms]
